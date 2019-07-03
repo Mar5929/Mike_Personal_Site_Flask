@@ -1,10 +1,7 @@
-
 /* body {
-    background-image: url('http://127.0.0.1:5000/static/assets/background.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-  } */
-  ul {
+   background-color: rgb(33, 33, 40); 
+}
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -27,7 +24,7 @@
   }
 
   /* Change the link color to #111 (black) on hover */
-  li a:hover {
+  /* li a:hover {
     color: rgb(255, 255, 255);
   }
 
@@ -42,10 +39,4 @@
   }
   a:visited {
     color:rgba(255, 255, 255, 0.35);
-  }
-
-  .section {
-    text-align:center;
-    font-size: 3em;
-    background-color: blue
-  }
+  } */ 

@@ -1,0 +1,5 @@
+1. set background to be picture
+2. Navigation indicators
+3. links to social
+4. logo in the top right corner
+
