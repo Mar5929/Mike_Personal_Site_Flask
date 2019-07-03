@@ -1,1 +1,1 @@
-web: gunicorn MIKE_PERSONAL_SITE_FLASK.wsgi --log-file--
+web: gunicorn MIKE_PERSONAL_SITE_FLASK:app
