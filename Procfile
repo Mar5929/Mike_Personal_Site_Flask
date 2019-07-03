@@ -1,1 +1,1 @@
-web: gunicorn -b :$PORT app:app
+web: gunicorn Mike_Personal_Site_Flask.wsgi
