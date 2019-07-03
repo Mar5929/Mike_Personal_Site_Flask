@@ -1,1 +1,1 @@
-web: python mikesite.py
+web: gunicorn -b :$PORT mikesite:app
