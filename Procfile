@@ -1,1 +1,1 @@
-web: gunicorn MIKE_PERSONAL_SITE_FLASK:app
+web: python mikesite.py
