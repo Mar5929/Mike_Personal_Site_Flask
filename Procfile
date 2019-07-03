@@ -1,1 +1,1 @@
-web: gunicorn Mike_Personal_Site_Flask.wsgi
+web: gunicorn deploy:app
