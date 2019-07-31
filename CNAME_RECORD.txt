@@ -1,0 +1,4 @@
+Type: CNAME Record
+Host: www
+Value: intense-coral-p61gvhuo4v5sx7fbhzimv5ln.herokudns.com.
+TTL: Automatic
